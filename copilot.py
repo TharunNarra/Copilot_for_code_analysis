@@ -86,5 +86,5 @@ else:
     st.write("API Key is missing. Please check your .env file.")
 
 # Add a sidebar for additional features (optional)
-#st.sidebar.title("Additional Features")
-#st.sidebar.write("You can extend this copilot with more features like content analysis, documentation generation, etc.")
+st.sidebar.title("Additional Features")
+st.sidebar.write("You can extend this copilot with more features like content analysis, documentation generation, etc.")
